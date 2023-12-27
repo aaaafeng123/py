@@ -1,19 +1,19 @@
 {
-  "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
-  "drives": [
-    {
-      "name": "名称",
-      "server": "http://110.41.48.42:5678/",
-      "hidden": false,
-      "login": {
-        "username": "用户名",
-        "password": "密码"
-      }
-    },
-    {
-                        "name": "小雅",
-                        "server": "http://223.167.75.227:5678/",
-                        "version": 3
-                    }
-  ]
+    "vodPic": "https://x.imgs.ovh/x/2023/09/05/64f680bb030b4.png",
+    "drives": [
+        {
+            "name": "名称",
+            "server": "http://110.41.48.42:5678/",
+            "hidden": false,
+            "login": {
+                "username": "用户名",
+                "password": "密码"
+            }
+        },
+        {
+            "name": "小雅",
+            "server": "http://223.167.75.227:5678/",
+            "version": 3
+        }
+    ]
 }
